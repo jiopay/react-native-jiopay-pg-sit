@@ -1,6 +1,6 @@
 {
   "name": "react-native-jiopay-pg-sit",
-  "version": "0.0.3",
+  "version": "0.0.7",
   "description": "//@TODO add description of product here",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",

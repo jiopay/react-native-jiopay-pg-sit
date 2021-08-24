@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JiopayExample.iml" filepath="$PROJECT_DIR$/.idea/modules/JiopayExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/JiopayExample.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/JiopayExample.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/165032614/JiopayExample.reactnativejiopay.iml" filepath="$PROJECT_DIR$/.idea/modules/165032614/JiopayExample.reactnativejiopay.iml" />
+    </modules>
+  </component>
+</project>

@@ -26,7 +26,7 @@ const data = {
         },
       }
 
-  JiopayCheckout.open(JSON.stringify(data)).then((res)=>{
+  JiopayCheckout.open(data).then((res)=>{
            alert(`Success: ${data.jiopay_payment_id}`);
         }).catch((error)=>{
            alert(`Error: ${error.code} | ${error.description}`);
